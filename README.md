@@ -1,6 +1,6 @@
 # competitive programming journey 
 
->[! NOTE]
+>[!NOTE]
 > first i am following a random dudes roadmap from codeforces discussion and i am making this repo rn to kinda keep myself in track [link](https://drive.google.com/file/d/16Jydn250Ue7K7hOfzLxw4p5jFF4ZCqWT/view) 
 
 > click the solution to get the solution 
