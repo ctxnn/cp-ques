@@ -5,6 +5,10 @@
 
 > click the solution to get the solution 
 
+> in the USACO guide there are many *niche* resources too make sure to look at them too as they are very interesting an important too 
+
+*i will add some links at the last*
+
 ## introduction to C++ 
 
 - [x] [edge checker](https://atcoder.jp/contests/abc240/tasks/abc240_a) - [sol](A_Edge_Checker.cpp)
@@ -20,3 +24,13 @@
 - [ ] [squared error](https://atcoder.jp/contests/abc194/tasks/abc194_c)
 - [ ] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c)
 - [ ] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c)
+
+
+
+
+
+
+
+*links*:
+- https://codeforces.com/blog/entry/74684 
+- https://csacademy.com/lesson/sorting
