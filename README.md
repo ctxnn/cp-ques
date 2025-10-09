@@ -16,7 +16,7 @@
 
 ## loops and arrays
 
-- [ ] [nuts](https://atcoder.jp/contests/abc204/tasks/abc204_b) 
+- [x] [nuts](https://atcoder.jp/contests/abc204/tasks/abc204_b) - [sol](B_Nuts.cpp)
 - [ ] [permutation check](https://atcoder.jp/contests/abc205/tasks/abc205_b)
 - [ ] [swappable](https://atcoder.jp/contests/abc206/tasks/abc206_c)
 - [ ] [long sequence](https://atcoder.jp/contests/abc220/tasks/abc220_c)
