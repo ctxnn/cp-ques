@@ -3,6 +3,8 @@
 >[!NOTE]
 > first i am following a random dudes roadmap from codeforces discussion and i am making this repo rn to kinda keep myself in track [link](https://drive.google.com/file/d/16Jydn250Ue7K7hOfzLxw4p5jFF4ZCqWT/view) 
 
+*i have added notes in the solutions*
+
 > click the solution to get the solution 
 
 > in the USACO guide there are many *niche* resources too make sure to look at them too as they are very interesting an important too 
@@ -22,8 +24,10 @@
 - [ ] [long sequence](https://atcoder.jp/contests/abc220/tasks/abc220_c)
 - [ ] [doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c)
 - [ ] [squared error](https://atcoder.jp/contests/abc194/tasks/abc194_c)
-- [ ] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c)
+- [x] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) - [sol](C_Unexpressed.cpp)
 - [ ] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c)
+
+
 
 
 
