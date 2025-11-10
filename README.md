@@ -25,11 +25,16 @@
 - [ ] [doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c)
 - [ ] [squared error](https://atcoder.jp/contests/abc194/tasks/abc194_c)
 - [x] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) - [sol](C_Unexpressed.cpp)
-- [ ] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c)
+- [ ] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) - [sol](C_Rotation.py)
 
+## stl data structures 
 
+- [x] [cheese](https://atcoder.jp/contests/abc229/tasks/abc229_c) - [sol](C_Cheese.cpp)
+- [ ] [concert tickets - cses](https://cses.fi/problemset/task/1091)
+- [ ] [sum of two values - cses](https://cses.fi/problemset/task/1640)
 
-
+>[!NOTE]
+> next qs in stl may include sort + greedy 
 
 
 
