@@ -62,3 +62,16 @@ int main()
 
     return 0;
 }
+
+// Compare with 0/1 Knapsack: -> DP 
+
+// In 0/1 Knapsack: You must take the WHOLE item or nothing
+// Sometimes you skip a high-value item because it's too heavy
+// This requires DP (no greedy solution)
+
+// Fractional Knapsack: -> it is a fractional knapsack problem -> GREEDY 
+
+// You can take ANY amount of an item
+// There's NEVER a reason to skip high-value cheese!
+// If the best cheese doesn't fit completely, just take a partial amount
+// Greedy always works!
