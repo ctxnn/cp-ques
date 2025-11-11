@@ -75,3 +75,5 @@ int main()
 // There's NEVER a reason to skip high-value cheese!
 // If the best cheese doesn't fit completely, just take a partial amount
 // Greedy always works!
+
+//Greedy means: Always make the best choice RIGHT NOW, without worrying about the future.
