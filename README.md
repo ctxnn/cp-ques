@@ -11,6 +11,7 @@
 
 *i will add some links at the last*
 
+[notes-md-random](notes-md-random) - some random notes here - by ai 
 ## introduction to C++ 
 
 - [x] [edge checker](https://atcoder.jp/contests/abc240/tasks/abc240_a) - [sol](A_Edge_Checker.cpp)
@@ -25,7 +26,7 @@
 - [ ] [doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c)
 - [ ] [squared error](https://atcoder.jp/contests/abc194/tasks/abc194_c)
 - [x] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) - [sol](C_Unexpressed.cpp)
-- [ ] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) - [sol](C_Rotation.py)
+- [x] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) - [sol](C_Rotation.py)
 
 ## stl data structures 
 
