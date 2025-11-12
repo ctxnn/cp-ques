@@ -31,7 +31,7 @@
 ## stl data structures 
 
 - [x] [cheese](https://atcoder.jp/contests/abc229/tasks/abc229_c) - [sol](C_Cheese.cpp)
-- [ ] [concert tickets - cses](https://cses.fi/problemset/task/1091)
+- [x] [concert tickets - cses](https://cses.fi/problemset/task/1091) - [sol](Concert_Tickets.cpp)
 - [x] [sum of two values - cses](https://cses.fi/problemset/task/1640) - [sol](Sum_of_Two_Values.cpp)
 
 >[!NOTE]
