@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "ciso646": "cpp",
-        "csignal": "cpp",
-        "cctype": "cpp"
-    }
-}
