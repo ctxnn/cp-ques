@@ -37,6 +37,8 @@
 >[!NOTE]
 > next qs in stl may include sort + greedy 
 
+- [x] [stick division - cses](https://cses.fi/problemset/task/1161) - [sol](Stick_Divisions.cpp)
+- [ ] [array destruction - CF](https://codeforces.com/problemset/problem/1474/C)
 
 
 
