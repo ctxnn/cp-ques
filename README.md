@@ -39,8 +39,14 @@
 
 - [x] [stick division - cses](https://cses.fi/problemset/task/1161) - [sol](Stick_Divisions.cpp)
 - [x] [array destruction - CF](https://codeforces.com/problemset/problem/1474/C)
+- [ ] [room allocation - cses](https://cses.fi/problemset/task/1164)
 
+## binary search 
 
+- [ ] [multiplication table - cses](https://cses.fi/problemset/task/2422)
+- [ ] [chat ban - cf](https://codeforces.com/problemset/problem/1612/C)
+- [ ] [keshi is throwing a party - cf](https://codeforces.com/problemset/problem/1612/C)
+- [ ] [very suspicious - cf](https://codeforces.com/problemset/problem/1670/D)
 
 
 *links*:
