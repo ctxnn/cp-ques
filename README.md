@@ -28,12 +28,12 @@
 - [x] [unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) - [sol](C_Unexpressed.cpp)
 - [x] [rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) - [sol](C_Rotation.py)
 
-## stl data structures 
+## stl data structures(includes greedy too) 
 
 - [x] [cheese](https://atcoder.jp/contests/abc229/tasks/abc229_c) - [sol](C_Cheese.cpp)
 - [x] [concert tickets - cses](https://cses.fi/problemset/task/1091) - [sol](Concert_Tickets.cpp)
 - [x] [sum of two values - cses](https://cses.fi/problemset/task/1640) - [sol](Sum_of_Two_Values.cpp)
-
+- [ ] [mad scientist](https://usaco.org/index.php?page=viewproblem2&cpid=1012) 
 >[!NOTE]
 > next qs in stl may include sort + greedy 
 
