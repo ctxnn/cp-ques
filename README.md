@@ -38,8 +38,8 @@
 > next qs in stl may include sort + greedy 
 
 - [x] [stick division - cses](https://cses.fi/problemset/task/1161) - [sol](Stick_Divisions.cpp)
-- [x] [array destruction - CF](https://codeforces.com/problemset/problem/1474/C)
-- [ ] [room allocation - cses](https://cses.fi/problemset/task/1164)
+- [x] [array destruction - CF](https://codeforces.com/problemset/problem/1474/C) - [sol](C_Array_Destruction.cpp)
+- [x] [room allocation - cses](https://cses.fi/problemset/task/1164) - [sol](Room_Allocation.cpp)
 
 ## binary search 
 
